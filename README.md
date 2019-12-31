@@ -3,6 +3,9 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)<br>
 Simple Chat server in Java using MySQL
 
+## Link to site
+https://ashu12chi.github.io/ChatServer/
+
 ## Libraries Required
 1. [Java SE Development Kit 8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 2. [MySQL](https://www.mysql.com/downloads/)
